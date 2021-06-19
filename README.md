@@ -1,6 +1,6 @@
 # Js Experiment
 
-## experimental javascript gif controls
+## experimental gif controller
 
 EXPERIMENTAL : *NOT WORKING*
 
