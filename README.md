@@ -1,2 +1,5 @@
-# Experimental-gif-playable-controls
-NOT WORKING - Simple notes of little experimental for make gif playable
+# experimental-javascript-gif-controls
+
+experimental : *NOT WORKING*
+
+> It's little experimental for make gif playable. It is actually a failure.
